@@ -88,17 +88,17 @@
 
 > [!NOTE]
 > Dưới đây là 1 số trình duyệt phổ biến dùng **Chromium** để bạn có thể tham khảo :
-> Google Chrome
-> Microsoft Edge
-> Opera / Opera GX
-> Brave
-> Cốc Cốc
-> Vivaldi
-> Epic Privacy Browser
-> SRWare Iron
-> Comodo Dragon
-> Torch Browser
-> Thorium
+> Google Chrome,
+> Microsoft Edge,
+> Opera / Opera GX,
+> Brave,
+> Cốc Cốc,
+> Vivaldi,
+> Epic Privacy Browser,
+> SRWare Iron,
+> Comodo Dragon,
+> Torch Browser,
+> Thorium.
 
 # Một số thao tác drag, resize của cửa sổ popup
 
