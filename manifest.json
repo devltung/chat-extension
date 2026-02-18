@@ -1,0 +1,45 @@
+{
+  "manifest_version": 3,
+  "name": "Mahiru Chat",
+  "version": "1.0",
+
+  "description": "Mahiru Chat dev by Devtung Official",
+
+  "permissions": [
+    "storage",
+	"tabs",
+    "scripting",
+    "cookies"
+  ],
+
+  "host_permissions": [
+    "https://noname.mydiscussion.net/*"
+  ],
+
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Mahiru Chat"
+  },
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "popup.html",
+        "popup.js"
+      ],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
