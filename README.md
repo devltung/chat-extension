@@ -74,14 +74,33 @@
 
 ### Bây giờ bạn vô thử 1 web và dùng tổ hợp phím **ctrl + `** để mở popup chat dùng tổ hợp phím lần nưa để tắt
 
+# Fix bug
 
+## Có 1 số trình duyệt khi mở popup lên thì trình duyệt sẽ chặn popup, VD như tui dùng brave khi mở popup lên nó đang bị hiển thị là **Brave đã chặn trang này** thì ta sẽ fix như sau
 
+### Đầu tiên hãy bấm vào icon **Mahiru Chat** trên thanh công cụ để hiển thị giao diện chat rồi ta dùng tổ hợp phím **ctrl + t** để mở tab mới rồi ta truy cập web "chrome-extension://[mã nhận dạng của bạn]/popup.html"  nó sẽ vô 1 trang web với giao diện chat như giao diện khi bạn ấn vô icon **Mahiru Chat** trên thanh công cụ, rồi ta đứng ở **trang web đó tầm ~10s** rồi bạn quay lại tab tiện tích và reload lại extension **Mahiru Chat** là được.
 
+> [!IMPORTANT]
+> Sau khi fix bug thì các web đã mở extension trước lúc fix thì bạn hãy reload (F5) lại web để áp dụng fix nhé
 
+> [!WARNING]
+> Hiện extension chỉ hỗ trợ trên các trình duyệt sử dụng **Chromium** các web không sử dụng **Chromium** thì không thể sử dụng extension
 
+> [!NOTE]
+> Dưới đây là 1 số trình duyệt phổ biến dùng **Chromium** để bạn có thể tham khảo :
+> Google Chrome
+> Microsoft Edge
+> Opera / Opera GX
+> Brave
+> Cốc Cốc
+> Vivaldi
+> Epic Privacy Browser
+> SRWare Iron
+> Comodo Dragon
+> Torch Browser
+> Thorium
 
+# Một số thao tác drag, resize của cửa sổ popup
 
-
-
-
+https://github.com/user-attachments/assets/1213d1c4-bf65-4a39-85ba-e129cee52780
 
