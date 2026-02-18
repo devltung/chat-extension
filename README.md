@@ -1,4 +1,4 @@
-<img width="416" height="269" alt="image" src="https://github.com/user-attachments/assets/048c903f-07aa-44e2-bcee-4f8f4f367373" /><img width="468" height="389" alt="image" src="https://github.com/user-attachments/assets/db69aa91-2580-40f8-8832-b266b2981f69" /># **HƯỚNG DẪN SỬ DỤNG**
+# **HƯỚNG DẪN SỬ DỤNG**
 
 ## Hướng dẫn tải file
 ### Chọn **mahiruchat-chatpp** ở phần **Releases**
@@ -43,7 +43,7 @@
 
 ### Sau khi đợi đủ 5s bạn vẫn để tab web ở đó qua lại tab extension và reload lại extension **Mahiru Chat** 
 
-<img width="465" height="280" alt="image" src="https://github.com/user-attachments/assets/d3facc65-2fda-4f35-8796-15f0a5ecced7" 
+<img width="465" height="280" alt="image" src="https://github.com/user-attachments/assets/d3facc65-2fda-4f35-8796-15f0a5ecced7" />
 
 ### Trên thanh công cụ chọn Extension **Mahiru Chat** nó sẽ hiển thị lên bảng **Đăng nhập** nếu chưa có tài khoản hãy chọn nút **Chưa có tài khoản?** để đăng ký và quay lại trang đăng nhập bằng cách ấn vào nút **Đã có tài khoản?** và đăng nhập tài khoản vừa đăng ký
 > [!IMPORTANT]
