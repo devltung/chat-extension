@@ -68,7 +68,10 @@
 
 <img width="864" height="626" alt="image" src="https://github.com/user-attachments/assets/8c24e68d-bb46-4a99-886e-6d145c23c49f" />
 
-### Ở dòng đầu tiên **const EXT_ID = "";** ở dưỡi hay dấu " hãy paste đoạn **mã nhận dạng** mà nãy bạn coppy vô và ctrl s để lưu lại rồi reload lại extension
+### Ở dòng thứ 62 (như dưới hình ảnh) hãy paste đoạn **mã nhận dạng** mà nãy bạn coppy vô **thay** cho đoạn **ejjgllbgoikinaghddghcimannoechci** và ctrl s để lưu lại rồi reload lại extension
+
+<img width="1363" height="629" alt="image" src="https://github.com/user-attachments/assets/180d24b1-9827-4ab7-bb12-0e8d847eb84f" />
+
 ### Bây giờ bạn vô thử 1 web và dùng tổ hợp phím **ctrl + `** để mở popup chat dùng tổ hợp phím lần nưa để tắt
 
 
